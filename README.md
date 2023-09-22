@@ -1,7 +1,6 @@
 ### Hello 👋
 
-I am Joel George, a young Software Developer from Nigeria.
-
+I'm Joel George, a young Software Developer from Nigeria. I specialize in JavaScript, PHP, Solidity, and various frameworks and libraries.
 
 Here are some interesting things about me:
 - 😄 Pronouns: he/him 
