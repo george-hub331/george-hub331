@@ -7,7 +7,7 @@ Here are some interesting things about me:
 
 - 🔭 I’m currently working on the next big thing
 
-- 📫 How to reach me: [Twitter](https://twitter.com/king_jowiii), [Instagram](https://instagram.com/king_jowii) and mail: [idiaghegeorge9@gmail.com](mailto:idiaghegeorge9@gmail.com)
+- 📫 How to reach me: [Twitter](https://twitter.com/king_jowiii) and mail: [idiaghegeorge9@gmail.com](mailto:idiaghegeorge9@gmail.com)
 
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=george-hub331&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
