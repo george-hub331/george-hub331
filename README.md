@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm Joel George, a Software Engineer from Nigeria. I specialize in JavaScript, PHP, Solidity, and various frameworks and libraries.
+I'm Joel George, a Software Engineer from Nigeria. I specialize in TypeScript, PHP, Solidity, and various frameworks and libraries.
 
 Here are some interesting things about me:
 - 😄 Pronouns: he/him 
